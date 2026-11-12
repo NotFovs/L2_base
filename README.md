@@ -7,4 +7,4 @@
 
 ## Мой профиль Codewars
 
-[[(https://www.codewars.com/users/NotFovs)]]
+(https://www.codewars.com/users/NotFovs)
